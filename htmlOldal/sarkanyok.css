@@ -1,0 +1,17 @@
+.keret {
+    width: 80%;
+    margin: 0 auto;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+.jobbrakep {
+    float: right;
+}
